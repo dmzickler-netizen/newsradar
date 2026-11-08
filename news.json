@@ -132,22 +132,6 @@
       "freigegeben_am": "2026-11-08"
     },
     {
-      "id": "2026-11-08-ki-01",
-      "rubrik": "ki",
-      "titel": "GeDIG: Anhörung zum Digitalgesetz – ePA-Medikationsplan, E-Überweisung, Datennutzung",
-      "kurz": "Das Gesetz für Daten und digitale Innovation im Gesundheitswesen (GeDIG) wurde am 08.10.2026 in erster Lesung beraten, die öffentliche Anhörung folgte am 14.10. Vorgesehen sind unter anderem ein laufend gepflegter Medikationsplan in der ePA (elektronische Patientenakte), eine digitale Impfübersicht, die E-Überweisung bis 01.09.2029 und Regeln zur Nutzung von Gesundheitsdaten für Forschung und Versorgung. Die KBV kritisiert erweiterte Zugriffe der Krankenkassen auf die ePA, die DKG bemängelt, dass die elektronische Krankenhauseinweisung nicht geregelt ist.",
-      "einordnung": "Der Entwurf liegt im Gesundheitsausschuss; ein Termin für die abschließende Lesung ist nicht bekannt.",
-      "datum": "2026-10-14",
-      "quellen": [
-        {
-          "name": "Deutscher Bundestag, Textarchiv",
-          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-digitale-innovation-1217540",
-          "datum": "2026-10-08"
-        }
-      ],
-      "freigegeben_am": "2026-11-08"
-    },
-    {
       "id": "2026-11-08-ambulant-01",
       "rubrik": "ambulant",
       "titel": "Bundestag beschließt Aus der Hybrid-DRG zum 1. Januar 2028",
@@ -174,6 +158,22 @@
           "name": "Deutsches Ärzteblatt",
           "url": "https://www.aerzteblatt.de/news/bundestag-beschliesst-notfallreform-im-dritten-anlauf-77a773bd-ab03-4bf3-bcf2-129acb7f0bbf",
           "datum": "2026-10-15"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-ki-01",
+      "rubrik": "ki",
+      "titel": "GeDIG: Anhörung zum Digitalgesetz – ePA-Medikationsplan, E-Überweisung, Datennutzung",
+      "kurz": "Das Gesetz für Daten und digitale Innovation im Gesundheitswesen (GeDIG) wurde am 08.10.2026 in erster Lesung beraten, die öffentliche Anhörung folgte am 14.10. Vorgesehen sind unter anderem ein laufend gepflegter Medikationsplan in der ePA (elektronische Patientenakte), eine digitale Impfübersicht, die E-Überweisung bis 01.09.2029 und Regeln zur Nutzung von Gesundheitsdaten für Forschung und Versorgung. Die KBV kritisiert erweiterte Zugriffe der Krankenkassen auf die ePA, die DKG bemängelt, dass die elektronische Krankenhauseinweisung nicht geregelt ist.",
+      "einordnung": "Der Entwurf liegt im Gesundheitsausschuss; ein Termin für die abschließende Lesung ist nicht bekannt.",
+      "datum": "2026-10-14",
+      "quellen": [
+        {
+          "name": "Deutscher Bundestag, Textarchiv",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-digitale-innovation-1217540",
+          "datum": "2026-10-08"
         }
       ],
       "freigegeben_am": "2026-11-08"
