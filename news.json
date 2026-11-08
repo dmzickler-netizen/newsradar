@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "aktualisiert": "2026-11-08T17:00:00+01:00",
+  "rubriken": [
+    { "key": "nephro", "name": "Nephrologie & Dialyse" },
+    { "key": "intensiv", "name": "Intensiv- & Notfallmedizin" },
+    { "key": "arznei", "name": "Arzneimittel & Zulassungen" },
+    { "key": "ki", "name": "KI & Digitalisierung" },
+    { "key": "khreform", "name": "Krankenhausreform" },
+    { "key": "ambulant", "name": "Ambulantisierung & Dialysemarkt" },
+    { "key": "goae", "name": "GOÄ & Berufspolitik" },
+    { "key": "berlin", "name": "Berliner Kliniklandschaft" }
+  ],
+  "meldungen": []
+}
