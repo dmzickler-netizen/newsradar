@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-08T17:15:00+01:00",
+  "aktualisiert": "2026-11-08T17:36:29+01:00",
   "rubriken": [
     {
       "key": "nephro",
@@ -150,15 +150,30 @@
     {
       "id": "2026-11-08-ambulant-01",
       "rubrik": "ambulant",
-      "titel": "Hybrid-DRG sollen ab 2028 entfallen",
-      "kurz": "Laut einem Änderungsantrag der Koalition zur Notfallreform sollen die Hybrid-DRG und § 115f SGB V ab 2028 wegfallen. An ihre Stelle treten Kurzliegerpauschalen für Aufenthalte bis drei Kalendertage und zwei Nächte; das InEK (Institut für das Entgeltsystem im Krankenhaus) soll sie bis März 2027 entwickeln, die Selbstverwaltung bis 30.04.2027 vereinbaren. 2027 werden Eingriffe ohne Übernachtung in Praxen nach EBM (Einheitlicher Bewertungsmaßstab) und in Kliniken nach dem AOP-Katalog (ambulantes Operieren) abgerechnet, Fälle mit mindestens einer Nacht weiter als Hybrid-DRG.",
-      "einordnung": "Die Notfallreform wurde am 15.10.2026 beschlossen. Ob diese Regelung unverändert im beschlossenen Text steht, ist im Gesetzestext noch nicht geprüft.",
-      "datum": "2026-10-05",
+      "titel": "Bundestag beschließt Aus der Hybrid-DRG zum 1. Januar 2028",
+      "kurz": "Mit der Notfallreform hat der Bundestag am 15.10.2026 auch das Ende der Hybrid-DRG beschlossen, der speziellen sektorengleichen Vergütung nach § 115f SGB V. Im Übergangsjahr 2027 werden Leistungen aus dem Hybrid-DRG-Katalog ohne Übernachtung in Praxen und Kliniken nur noch zu den Preisen der regionalen Euro-Gebührenordnung vergütet (§ 87a SGB V); die Sachkosten richten sich bei Vertragsärzten nach dem Gesamtvertrag, bei Krankenhäusern nach dem AOP-Vertrag (ambulantes Operieren, § 115b SGB V). Fälle mit mindestens einer Übernachtung erhalten 2027 weiter die Hybrid-DRG-Pauschale. Zum 01.01.2028 wird § 115f aufgehoben. Danach gelten Kurzzeitfallpauschalen für stationäre Fälle bis drei Kalendertage mit höchstens zwei Übernachtungen; das InEK (Institut für das Entgeltsystem im Krankenhaus) soll das Konzept bis 31.03.2027 vorlegen, die Selbstverwaltung die Grundlagen bis 30.04.2027 vereinbaren.",
+      "einordnung": "Stand 08.11.2026: Vom Bundestag beschlossen, der Bundesrat berät voraussichtlich am 20.11.2026. Das Gesetz ist nicht zustimmungspflichtig; ruft der Bundesrat den Vermittlungsausschuss an, verzögert sich das Verfahren. Grundlage dieser Meldung sind der Änderungsantrag der Koalition (Artikel 2a hebt § 115f zum 01.01.2028 auf) und die Zusammenfassung der beschlossenen Fassung durch die DGVS (Deutsche Gesellschaft für Gastroenterologie, Verdauungs- und Stoffwechselkrankheiten).",
+      "datum": "2026-10-15",
       "quellen": [
         {
+          "name": "DGVS",
+          "url": "https://www.dgvs.de/aus-dem-fach/gesundheitspolitik/strukturreform/informationen-zur-abschaffung-der-hybrid-drg/",
+          "datum": "2026-10-16"
+        },
+        {
+          "name": "Deutscher Bundestag, Beschluss Notfallreform",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-notfallversorgung-1223578",
+          "datum": "2026-10-15"
+        },
+        {
+          "name": "Deutscher Bundestag, Änderungsantrag 1 der Koalition",
+          "url": "https://www.bundestag.de/resource/blob/1222308/21-14-0107-CDU-CSU-SPD-Aenderungsantrag-1-12-Gesetzentwurf-GKV-Beitragssatzstabilisierungsgesetz-nicht-barriefrei.pdf",
+          "datum": ""
+        },
+        {
           "name": "Deutsches Ärzteblatt",
-          "url": "https://www.aerzteblatt.de/news/hybrid-drg-sollen-ab-2028-abgeschafft-werden-576552aa-a75b-4b53-ad56-e51829c020d9",
-          "datum": "2026-10-05"
+          "url": "https://www.aerzteblatt.de/news/bundestag-beschliesst-notfallreform-im-dritten-anlauf-77a773bd-ab03-4bf3-bcf2-129acb7f0bbf",
+          "datum": "2026-10-15"
         }
       ],
       "freigegeben_am": "2026-11-08"
