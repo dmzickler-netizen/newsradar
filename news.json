@@ -1,15 +1,183 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-08T17:00:00+01:00",
+  "aktualisiert": "2026-11-08T17:15:00+01:00",
   "rubriken": [
-    { "key": "nephro", "name": "Nephrologie & Dialyse" },
-    { "key": "intensiv", "name": "Intensiv- & Notfallmedizin" },
-    { "key": "arznei", "name": "Arzneimittel & Zulassungen" },
-    { "key": "ki", "name": "KI & Digitalisierung" },
-    { "key": "khreform", "name": "Krankenhausreform" },
-    { "key": "ambulant", "name": "Ambulantisierung & Dialysemarkt" },
-    { "key": "goae", "name": "GOÄ & Berufspolitik" },
-    { "key": "berlin", "name": "Berliner Kliniklandschaft" }
+    {
+      "key": "nephro",
+      "name": "Nephrologie & Dialyse"
+    },
+    {
+      "key": "intensiv",
+      "name": "Intensiv- & Notfallmedizin"
+    },
+    {
+      "key": "arznei",
+      "name": "Arzneimittel & Zulassungen"
+    },
+    {
+      "key": "ki",
+      "name": "KI & Digitalisierung"
+    },
+    {
+      "key": "khreform",
+      "name": "Krankenhausreform"
+    },
+    {
+      "key": "ambulant",
+      "name": "Ambulantisierung & Dialysemarkt"
+    },
+    {
+      "key": "goae",
+      "name": "GOÄ & Berufspolitik"
+    },
+    {
+      "key": "berlin",
+      "name": "Berliner Kliniklandschaft"
+    }
   ],
-  "meldungen": []
+  "meldungen": [
+    {
+      "id": "2026-11-08-intensiv-01",
+      "rubrik": "intensiv",
+      "titel": "Notfallreform: Länder wollen den Vermittlungsausschuss anrufen",
+      "kurz": "Der Bundestag hat die Notfallreform am 15.10.2026 beschlossen. Kern sind Integrierte Notfallzentren (INZ) aus Notaufnahme, KV-Notdienstpraxis und zentraler Ersteinschätzung, die Vernetzung von 116117 und 112, der Rettungsdienst als Kassenleistung und ein bundesweites Defibrillatorregister. Der Gesundheitsausschuss des Bundesrates hat am 04.11. empfohlen, den Vermittlungsausschuss anzurufen. Streitpunkte sind die Entscheidung über INZ-Standorte und die Kosten des Rettungsdienstes; das Plenum entscheidet laut Ärzteblatt in etwa zwei Wochen.",
+      "einordnung": "Der Zeitplan für die INZ-Einführung kann sich verschieben, die Standortfragen bleiben vorerst offen.",
+      "datum": "2026-11-05",
+      "quellen": [
+        {
+          "name": "Deutsches Ärzteblatt",
+          "url": "https://aerzteblatt.de/news/notfallreform-bundeslander-wollen-vermittlungsausschuss-anrufen-adb90323-4882-4419-ae8a-0ecab19d776f",
+          "datum": "2026-11-05"
+        },
+        {
+          "name": "Deutscher Bundestag, Textarchiv",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-notfallversorgung-1223578",
+          "datum": "2026-10-15"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-intensiv-02",
+      "rubrik": "intensiv",
+      "titel": "Organspende: Anhörung zur Widerspruchsregelung im Gesundheitsausschuss",
+      "kurz": "Am 04.11.2026 hörte der Gesundheitsausschuss Sachverständige zu drei Vorlagen: dem Gruppenentwurf von 254 Abgeordneten für eine Widerspruchsregelung (Drucksache 21/7570), einem Bundesratsentwurf mit ähnlichem Ansatz (21/2738) und einem Antrag von 58 Abgeordneten, die bisherige Zustimmungslösung zu stärken (21/8050). BÄK-Präsident Klaus Reinhardt befürwortete die Widerspruchsregelung, zwei Theologen sprachen sich für die Zustimmungslösung aus. Für eine Mehrheit sind mindestens 316 Stimmen nötig; einen Abstimmungstermin nennt der Bundestag nicht.",
+      "einordnung": "Erstmals hat ein Entwurf zur Widerspruchsregelung über 250 Unterstützer. Der Ausgang bleibt offen.",
+      "datum": "2026-11-04",
+      "quellen": [
+        {
+          "name": "Deutscher Bundestag, Anhörung",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw45-pa-gesundheit-organspende-1225292",
+          "datum": "2026-11-04"
+        },
+        {
+          "name": "Ärzte Zeitung",
+          "url": "https://www.aerztezeitung.de/Politik/Erfreulicher-Trend-Zahl-der-postmortalen-Organspenden-2026-leicht-gestiegen-464851.html",
+          "datum": "2026-10-29"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-nephro-01",
+      "rubrik": "nephro",
+      "titel": "Prepare for Kidney Care: Dialysevorbereitung bei gebrechlichen Älteren nicht überlegen",
+      "kurz": "Die britische, randomisierte Phase-3-Studie (31 Zentren, 445 Teilnehmer, etwa drei Viertel 80 Jahre oder älter) verglich bei Nierenversagen mit Gebrechlichkeit oder Multimorbidität die Vorbereitung auf Dialyse mit der Vorbereitung auf ein konservatives Vorgehen ohne Dialyse. Über im Mittel 4,5 Jahre war keine der beiden Strategien überlegen. In der Dialysegruppe begannen nur 28 % tatsächlich eine Dialyse; in beiden Gruppen starben mehr Teilnehmer an anderen Ursachen, als eine Dialyse benötigten. Publiziert am 04.11.2026 in The Lancet.",
+      "einordnung": "Stützt eine ergebnisoffene, gemeinsame Entscheidung statt Dialyse als Standardpfad bei Hochbetagten. Primärer Endpunkt und Effektgrößen nennt die Pressemitteilung nicht; vor einer Bewertung den Volltext lesen.",
+      "datum": "2026-11-04",
+      "quellen": [
+        {
+          "name": "University of Bristol, Pressemitteilung",
+          "url": "https://www.bristol.ac.uk/news/2026/november/landmark-trial-.html",
+          "datum": "2026-11-06"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-intensiv-03",
+      "rubrik": "intensiv",
+      "titel": "DSO: Höchste Zahl postmortaler Organspender seit zehn Jahren",
+      "kurz": "Von Januar bis September 2026 gab es 772 postmortale Organspender (+3,8 % gegenüber 744 im Vorjahreszeitraum) und 2.373 entnommene Organe (+5,1 %). Das mediane Spenderalter liegt bei 63 Jahren. Die organspendebezogenen Kontakte der Kliniken stagnieren bei rund 2.600; DSO-Vorstand Axel Rahmel spricht von einem Plateau.",
+      "einordnung": "Die stagnierenden Kontakte sprechen dafür, dass die Spendererkennung auf den Intensivstationen der Engpass bleibt.",
+      "datum": "2026-10-29",
+      "quellen": [
+        {
+          "name": "Ärzte Zeitung",
+          "url": "https://www.aerztezeitung.de/Politik/Erfreulicher-Trend-Zahl-der-postmortalen-Organspenden-2026-leicht-gestiegen-464851.html",
+          "datum": "2026-10-29"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-khreform-01",
+      "rubrik": "khreform",
+      "titel": "Leistungsgruppen: Länder verschicken die ersten Zuweisungen",
+      "kurz": "Bayern hat seit Ende September knapp 2.000 positive Leistungsgruppen-Bescheide verschickt; der Medizinische Dienst hatte rund 3.400 Anträge für etwa 260 Standorte geprüft, Abschluss bis Ende 2026. In Baden-Württemberg erfahren die Träger Ende November, welche Leistungsgruppen für ihre Standorte vorgesehen sind; die Zuweisung soll bis 31.12.2026 erfolgen und ab 01.01.2027 gelten.",
+      "einordnung": "Für Berlin fand sich im Zeitraum keine Meldung zum Stand der Zuweisungen. Das bleibt ein Beobachtungspunkt.",
+      "datum": "2026-10-29",
+      "quellen": [
+        {
+          "name": "BibliomedManager",
+          "url": "https://www.bibliomedmanager.de/news/leistungsgruppen-baden-wuerttemberg-kliniken-november-2026",
+          "datum": "2026-10-29"
+        },
+        {
+          "name": "medconweb",
+          "url": "https://www.medconweb.de/blog/finanzierung/bayern-hat-knapp-2-000-leistungsgruppen-zugewiesen/",
+          "datum": "2026-10-14"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-ki-01",
+      "rubrik": "ki",
+      "titel": "GeDIG: Anhörung zum Digitalgesetz – ePA-Medikationsplan, E-Überweisung, Datennutzung",
+      "kurz": "Das Gesetz für Daten und digitale Innovation im Gesundheitswesen (GeDIG) wurde am 08.10.2026 in erster Lesung beraten, die öffentliche Anhörung folgte am 14.10. Vorgesehen sind unter anderem ein laufend gepflegter Medikationsplan in der ePA (elektronische Patientenakte), eine digitale Impfübersicht, die E-Überweisung bis 01.09.2029 und Regeln zur Nutzung von Gesundheitsdaten für Forschung und Versorgung. Die KBV kritisiert erweiterte Zugriffe der Krankenkassen auf die ePA, die DKG bemängelt, dass die elektronische Krankenhauseinweisung nicht geregelt ist.",
+      "einordnung": "Der Entwurf liegt im Gesundheitsausschuss; ein Termin für die abschließende Lesung ist nicht bekannt.",
+      "datum": "2026-10-14",
+      "quellen": [
+        {
+          "name": "Deutscher Bundestag, Textarchiv",
+          "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-digitale-innovation-1217540",
+          "datum": "2026-10-08"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-ambulant-01",
+      "rubrik": "ambulant",
+      "titel": "Hybrid-DRG sollen ab 2028 entfallen",
+      "kurz": "Laut einem Änderungsantrag der Koalition zur Notfallreform sollen die Hybrid-DRG und § 115f SGB V ab 2028 wegfallen. An ihre Stelle treten Kurzliegerpauschalen für Aufenthalte bis drei Kalendertage und zwei Nächte; das InEK (Institut für das Entgeltsystem im Krankenhaus) soll sie bis März 2027 entwickeln, die Selbstverwaltung bis 30.04.2027 vereinbaren. 2027 werden Eingriffe ohne Übernachtung in Praxen nach EBM (Einheitlicher Bewertungsmaßstab) und in Kliniken nach dem AOP-Katalog (ambulantes Operieren) abgerechnet, Fälle mit mindestens einer Nacht weiter als Hybrid-DRG.",
+      "einordnung": "Die Notfallreform wurde am 15.10.2026 beschlossen. Ob diese Regelung unverändert im beschlossenen Text steht, ist im Gesetzestext noch nicht geprüft.",
+      "datum": "2026-10-05",
+      "quellen": [
+        {
+          "name": "Deutsches Ärzteblatt",
+          "url": "https://www.aerzteblatt.de/news/hybrid-drg-sollen-ab-2028-abgeschafft-werden-576552aa-a75b-4b53-ad56-e51829c020d9",
+          "datum": "2026-10-05"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    },
+    {
+      "id": "2026-11-08-intensiv-04",
+      "rubrik": "intensiv",
+      "titel": "OPS 8-98f: Lückenlose Facharztvisite als Bedingung für die Komplexbehandlung",
+      "kurz": "Seit 01.09.2026 gilt ein Schlichterspruch zu den Strukturanforderungen des OPS 8-98f (aufwendige intensivmedizinische Komplexbehandlung): In den ersten 13 Kalendertagen muss täglich eine Visite durch einen Facharzt mit Zusatzbezeichnung Intensivmedizin dokumentiert sein. Fehlt ein einziger Tag, ist der Kode für den gesamten Aufenthalt nicht anwendbar. Die DIVI lehnt diese Alles-oder-nichts-Regel als unverhältnismäßig ab.",
+      "einordnung": "Erlösrelevant: Dokumentationslücken an einzelnen Tagen gefährden die Kodierung des ganzen Falls.",
+      "datum": "2026-09-01",
+      "quellen": [
+        {
+          "name": "DIVI",
+          "url": "https://www.divi.de/aktuelle-meldungen/schlichterspruch-zu-ops-8-98f-tritt-heute-in-kraft-divi-widerspricht-alles-oder-nichts-regelung",
+          "datum": "2026-09-01"
+        }
+      ],
+      "freigegeben_am": "2026-11-08"
+    }
+  ]
 }
